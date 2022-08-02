@@ -2,3 +2,4 @@
 my AI learning : bear classifiy 
 this is my note for learning Deep L in recent days
 
+jupyter server extension enable
